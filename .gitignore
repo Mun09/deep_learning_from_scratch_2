@@ -1,0 +1,22 @@
+# Python 가상 환경 디렉토리
+myenv/
+
+# Python 캐시 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 환경 설정 파일
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# 특정 운영 체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 기타
+.vscode/
+.idea/
+*.swp
